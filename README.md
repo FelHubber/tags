@@ -1,2 +1,3 @@
 # tags
-Let's play with Git Tags
+
+Let's play with Git Tags!
