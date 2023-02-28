@@ -1,1 +1,2 @@
 Hello, Git tags
+Comment in detached head state.
